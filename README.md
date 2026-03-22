@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkunkScrape API
 
 FastAPI backend scaffold for:
@@ -68,3 +69,7 @@ app/
   services/
 tests/
 ```
+=======
+# api
+API endpoint
+>>>>>>> 9283559212cb3f31a2478b2ef5e1871fdecedc79
